@@ -1,0 +1,30 @@
+1.IP Address
+
+Internet protocol is a unique identifying number assigned to every device connected to the internet. 
+it's a numeric label assigned to device to use the internet communication.
+
+2.difference b/w Http sand Http?
+
+Hyper text transfer protocol secure
+
+encryption is availabel(SSL)
+
+it work transport layer.
+Port Number- 443
+
+HTTP - Hyper text transfer protocol
+
+No encryption 
+
+it's works at the application layer
+port number- 80
+
+
+3.MAC Address
+
+Media access controller is unique identifier assigned to NIC card for use a network address in communications within 
+network segment.
+
+first 24 bits organizationally unique identifier 
+
+last 24 bits device code.serial number
